@@ -69,7 +69,7 @@
               <div className="bg-white/80 backdrop-blur-sm p-4 rounded-lg text-center shadow-sm hover:shadow-md transition-shadow">
                 <div className="w-20 h-20 mx-auto mb-4 rounded-full overflow-hidden border-2 border-white/50">
                   <img 
-                    src="./image copy.png" style="height: 100px; width: 100px"
+                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpulitzercenter.org%2Fpeople%2Fsarah-johnson&psig=AOvVaw1Jr0hnsEWRRXdUtbUC1wvG&ust=1759131152371000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiDmfX4-o8DFQAAAAAdAAAAABAE" style="height: 100px; width: 100px"
                     alt="Professional headshot of Sarah Johnson, AI Research Director"
                     className="w-full h-full object-cover"
                   />
