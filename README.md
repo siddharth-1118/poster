@@ -4,7 +4,7 @@
 <title>Background Image Example</title>
 <style>
   body {
-    background-image: url('./image\ copy\ 7.png'); 
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy-aCDxhzNUfk1jdTBN-ZdKbD2Ay2vUBkioIUc5tZoesGLYs53wdbRT-tBsH6uazJbrJZsKiTGdEDuXtEjmxomgpwaCjg3XKEvWCBVEKJzeewLoo3Po4pan31gzKL9QTGW4yEhdqD6aSfjsurAyn0aPPYRIpJI9mLBFwZKu8XOkrXHL_yQDCOQDqXp/s1200/The%20Top%20Tech%20Trends%20of%202023%20Unveiling%20the%20Simple%20Wonders%20of%20Complex%20Innovations.png'); 
     background-repeat: no-repeat; 
     background-size: cover; 
     background-position: center; 
